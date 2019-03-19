@@ -1,0 +1,19 @@
+//GE
+//Lesson
+# Is It?
+
+Is it Kipper?
+
+It is Kipper.
+
+Is it Biff?
+
+It is Biff.
+
+Is it Chip?
+
+It is Chip.
+
+Is it Floppy?
+
+Yes. It is Floppy!

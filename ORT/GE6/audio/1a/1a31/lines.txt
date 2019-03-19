@@ -1,0 +1,16 @@
+//GE
+//Lesson
+# What Dogs Like
+
+Dogs like to play.
+
+They like to walk.
+Floppy likes to walk.
+
+They like to sleep.
+Floppy likes to sleep.
+
+They like to run.
+Floppy likes to run.
+
+Floppy hates this.

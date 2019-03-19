@@ -1,0 +1,17 @@
+//GE
+//Lesson 3
+# Fun at the Beach
+
+Dad and Mum.
+
+Mum and Dad.
+Kipper, Chip and Biff.
+
+Kipper, Biff and Dad.
+Mum, Chip and Floppy.
+
+Chip, Biff and Kipper
+>> Dad 
+>> and Floppy.
+
+Oh Floppy!

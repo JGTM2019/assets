@@ -1,0 +1,15 @@
+//GE
+//Lesson 1
+# Who is it?
+
+Who is it?
+
+> Biff, and Chip.
+
+Mum
+and Kipper.
+
+Floppy
+and a spaceman.
+
+No, it's Dad.

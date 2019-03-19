@@ -1,0 +1,13 @@
+//GE
+//Lesson 2
+#Six in a Bed
+
+Mum and Dad.
+
+Mum, Kipper and Dad.
+
+Mum, Kipper, Dad and Chip.
+
+Biff, Mum, Kipper, Dad, Chip.
+
+and Floppy.

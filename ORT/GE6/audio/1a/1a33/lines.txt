@@ -1,0 +1,16 @@
+//GE
+//Lesson
+# Go on, Mum!
+
+"Go on, Mum," said Chip
+
+"Go on, Mum," said Biff.
+"I am going," said Mum.
+
+"Go on, Mum," said Kipper.
+"I am going," she said.
+
+"Go on, go on," said Dad
+"I am going." said Mum.
+
+"I am not going again."

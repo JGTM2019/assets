@@ -1,0 +1,22 @@
+//
+//
+# The Snowman
+
+Biff, Chip, Wilma, Wilf, Kipper, Floppy
+
+Wilma made a snowman.
+
+It had a red nose
+
+It had a blue scarf.
+
+It had green gloves.
+
+It had a black hat.
+
+The hat fell on Floppy.
+
+Floppy ran.
+Oh no!
+
+No snowman!

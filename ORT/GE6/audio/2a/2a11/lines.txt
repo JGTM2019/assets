@@ -1,0 +1,28 @@
+//
+//
+# Up and Down
+
+Mum and Dad went shopping
+
+Dad wanted a book
+He went up.
+
+Mum wanted a paintbrush.
+She went down.
+
+Mum went up.
+Dad went down.
+
+Mum couldn't see Dad
+She went up.
+
+Mum went down
+Dad went up
+
+Dad went down.
+Mum went up.
+
+Mum came down.
+"Stop!" she said.
+
+"Up and down!" said Dad.

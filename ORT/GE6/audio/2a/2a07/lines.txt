@@ -1,0 +1,27 @@
+//
+//
+# The Little Dragon
+
+The children put on a play.
+
+"I am the king." said Chip.
+"Fight the dragon."
+
+"I am the knight," said Wilma
+"I will fight the dragon."
+
+"I am the dragon," said Kipper.
+"But I am a little dragon."
+
+> "I am the princess." said Biff. "I like dragons."
+
+The princess played with the dragon.
+They played under the tree.
+
+"I am the knight," said Wilma.
+"I am frightened," said the dragon.
+
+"I am cross," said the princess.
+She pushed the knight in the pond.
+
+"What a good play," said everyone.

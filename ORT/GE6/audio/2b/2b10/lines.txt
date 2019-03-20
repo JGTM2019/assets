@@ -1,0 +1,29 @@
+//GE
+//Lesson
+# The Rope Swing
+
+The children went to the stream.
+
+They looked at the swing.
+Wilf climbed on the swing.
+
+Chip pushed Wilf.
+Floppy looked at the rope.
+
+Biff climbed on the swing.
+Floppy barked and barked.
+
+Chip climbed on the swing.
+Floppy barked and barked and barked.
+
+Kipper went on the swing.
+"What a silly dog!" said Kipper.
+
+Wilma went on too.
+"What a silly dog!" said Wilma.
+
+The children went home
+Floppy looked at the rope.
+
+>> Splash! 
+>> Oh no!

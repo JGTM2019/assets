@@ -1,0 +1,30 @@
+//GE
+//Lesson
+# Poor Old Rabbit!
+
+Floppy saw a toy rabbit.
+
+"Poor old rabbit" said Floppy.
+"Nobody wants it."
+
+Floppy took it to Kipper.
+
+>> "Poor old rabbit," 
+>> said Kipper.
+
+Kipper took it to Mum.
+
+"Look at this rabbit," said Kipper.
+"Nobody wants it."
+
+"Poor old rabbit." said Mum.
+
+Dad washed it.
+
+Kipper brushed it.
+
+Chip and Wilma mended it.
+
+> Everybody wanted it now. Oh no!
+
+"Poor old rabbit," said Kipper.

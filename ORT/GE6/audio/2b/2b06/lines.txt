@@ -1,0 +1,32 @@
+//GE
+//Lesson
+# Ouch!
+
+Floppy was dreaming that he was in the desert.
+
+It was hot in the desert.
+>> The sand was hot. 
+>> "Ouch!" said Floppy.
+
+Floppy saw a girl on a horse.
+
+The girl was Biff
+
+"Quick! Come with me," said Biff.
+
+"A sandstorm is coming."
+
+The wind blew the sand.
+Biff put Floppy on the horse.
+
+> The horse went fast. "Go faster!" said Biff. The sandstorm is coming!l"
+
+>> The horse went faster. 
+>> "Ouch!" said Floppy.
+
+The horse stopped. Oh no!
+
+Floppy flew off the horse.
+"Ouch!" said Floppy.
+
+"Oh! There's my cactus," said Biff.

@@ -1,0 +1,28 @@
+//GE
+//Lesson
+# I Can Trick a Tiger
+
+Floppy was dreaming that he was in the jungle.
+
+A tiger jumped out. "Got you!" he said.
+
+"I can trick a tiger," said Floppy
+
+> "Look out!" said Floppy. There's a bee on your nose." "Oh no!" said the tiger and he let Floppy go.
+
+A crocodile jumped out. "Got you!" she said.
+
+"I can trick a crocodile," said Floppy.
+
+> "Look out!" said Floppy. "There's a bee on your nose." "Oh no" said the crocodile, and she let Floppy go.
+
+A snake slid out. Got you!" she said.
+>> "I can trick a snake," 
+>> said Floppy.
+
+>> "Look out!" said Floppy. 
+>> > "There's a bee on your nose." "Oh no!" said the snake, and she let Floppy go.
+
+> A rabbit jumped out. "Got you!" said Floppy. "Look out!" said the rabbit. There's a bee on your nose."
+
+Buzzzzzzzzz! "Oh no!" said Floppy.

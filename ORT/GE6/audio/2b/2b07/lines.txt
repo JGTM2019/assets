@@ -1,0 +1,29 @@
+//GE
+//Lesson
+# A cat in the Tree
+
+>> Floppy barked at a cat. 
+>> The cat ran up a tree.
+
+Biff was cross with Floppy.
+Wilma climbed on the wall
+
+Wilma climbed up the tree.
+She couldn't get the cat.
+
+Wilma couldn't get down.
+Wilma's dad was cross.
+
+He put the ladder up.
+Wilma climbed down.
+
+Wilma's dad climbed the tree.
+He couldn't get the cat.
+
+Wilma's dad was stuck.
+The cat jumped down.
+
+The fireman put a ladder up.
+Wilma's dad climbed down.
+
+"Oh no!" said everyone.

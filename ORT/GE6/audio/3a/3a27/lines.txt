@@ -1,0 +1,42 @@
+//GE
+//Lesson
+# Dragons!
+
+The children went the woods with Mrs May.
+
+"You can make wigwams,"said Mrs May.
+The children went to get sticks.
+
+>> "Look at that!"
+>> said Biff.
+>> "It's a dragon!"
+>> said Wilf.
+
+>> "Did you see the green dragon?"
+>> said Biff.
+>> "Don't be silly!"
+>> said Chip.
+
+>> "Look,"
+>> said Wilf.
+>> "Did you see that?"
+>> "It's a red dragon!"
+>> said Biff.
+
+>> "Did you see the dragons?"
+>> said Wilf.
+>> "Don't be silly!"
+>> said Chip.
+
+>> "See!"said Biff.
+>> "We did see dragons."
+>> "They are in a play. 
+>> We can go and see it,"
+>> said Mrs May.
+
+So the children went to see the play.
+The dragons sang a song.
+
+>> Then the dragons did a jig.
+>> "The dragons are fun,"
+>> said Chip.

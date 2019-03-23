@@ -1,0 +1,29 @@
+//GE
+//Lesson
+# Gran and the Go-karts
+
+Gran took the children to a go-kart track.
+
+"Can I have that go-kart?"said Chip.
+"Yes.Put on this kit,"said a man.
+
+Biff,Chip and Wilf began to race.
+
+Wilf went fast.
+
+Biff and Chip went fast too.
+
+But Wilf won the race!
+
+"That was such fun!"said the children.
+"You can go again,"said Gran."And I will race you all!"
+
+The children went fast.
+Gran went fast too.
+
+Gran went faster and faster.
+She went past Wilf.
+
+> But Gran went too fast. Oh no!
+
+"Bad luck,Gran,"said Biff."I'll win next time!"said Gran.

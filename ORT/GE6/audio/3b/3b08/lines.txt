@@ -1,3 +1,26 @@
 //GE
 //Lesson
 # Swap!
+
+Nadim found a bat. It was broken.
+
+Nadim mended the bat. His dad helped.
+The bat looked good.
+
+Chip had a robot. The robot was broken.
+Chip liked Nadim's bat. He swapped the robot for the bat.
+
+> Nadim mended the robot. He painted It silver. The robot looked good.
+
+Biff had a skateboard. It had no wheels.
+Biff swapped it for the robot.
+
+> Nadim mended the skateboard. He put on new wheels. "It's a good skateboard now,"he said.
+
+Wilma had a bike. The bike was broken.
+She swapped it for the skateboard.
+
+Nadim mended the bike. He painted it black.
+The bike looked good.
+
+"Not bad,"said Nadim.
